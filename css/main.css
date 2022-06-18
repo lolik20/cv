@@ -1,3 +1,6 @@
+@font-face{
+  font-display: swap;
+}
 html, body {
   overflow-x: hidden;
 }
